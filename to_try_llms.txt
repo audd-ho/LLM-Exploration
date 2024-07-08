@@ -1,0 +1,29 @@
+meta llama? for open source local? -> on langchain also? fine tuning on colab?
+bert -> cant do text generation, more for mask langauge training and also text embedding?
+
+do below + langchain meta a bit
+
+bart -> got encoder of bert and decoder of a gpt? or smth? read more -> can text generate i think? can try fine tune and train also and see how it works
+distilbert?
+distilroberto? etc???
+
+doing text segmentation with text embedding, to segment points?
+bert for text embedding?
+
+or just gpt to segment?
+
+--> segment is a must
+
+---> after segment
+
+-> text embedding to check similarity? cosine similarity, can just gpt or bert? or etc?
+-> can also try bert classification but need data to fine tune? pretty sure? unless no need?
+-> zero shot classification, if bert can do this, then can try it, along with other models that can do this, maybe like bart? or idk? and all these, that!!
+
+
+Notes...? idk
+
+segment need filter examples as well and like "pointA... pointB... pointA", then pointA tgt as 1, pointB as another, and not come out 3 points?
+if 3 points also can, cos can just classify into same but if when split up they both go into diff classification then bad, so see if above part can account for or not, etc!!
+
+text segmentation is make own algo? using text embedding? or try use online model if got? but try algo ownself for experience and learning ah!
