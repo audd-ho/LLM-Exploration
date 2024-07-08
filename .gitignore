@@ -1,5 +1,6 @@
 *-venv*
 *-env*
-.env
+/azure_openai_stuff/.env
+/azure_openai_langchain/.env
 meta-llama
 ml3-8b-instruct
