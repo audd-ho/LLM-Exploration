@@ -1,0 +1,29 @@
+# azure openai .env containings keys and env var stuff
+/azure_openai_stuff/.env
+/azure_openai_langchain/.env
+#
+# meta llama 8b model
+meta-llama
+#
+#
+#
+# no-venv-folder (totally ignore all venv folders!)
+*-venv*
+*-env*
+ml3-8b-instruct
+#
+# empty-venv-folders (venv folders and names are included at least, just not contents!)
+# The contents inside a venv folder!
+#*-venv*/*
+#*-env*/*
+#ml3-8b-instruct/*
+# Don't ignore the README.md inside the venv folders though, since cannot "git add" and "git commit" an empty directory
+!*-venv*/README.md
+!*-env*/README.md
+!ml3-8b-instruct/README.md
+#
+#
+#
+/open_source/**/*
+/open_source/*
+open_source/*
