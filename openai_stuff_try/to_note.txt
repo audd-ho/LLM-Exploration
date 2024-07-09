@@ -1,2 +1,0 @@
-need make my own openai account then connect to use!!
-using own key and all!!
