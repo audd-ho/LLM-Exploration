@@ -8,9 +8,9 @@ meta-llama
 
 
 # no-venv-folder (totally ignore all venv folders!)
-## *-venv*
-## *-env*
-## ml3-8b-instruct
+# *-venv*
+# *-env*
+# ml3-8b-instruct
 
 # empty-venv-folders (venv folders and names are included at least, just not contents!)
 # The contents inside a venv folder!
