@@ -21,3 +21,4 @@ meta-llama
 !*-venv*/README.md
 !*-env*/README.md
 !ml3-8b-instruct/README.md
+!*venv*/testing.md
