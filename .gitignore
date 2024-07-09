@@ -1,6 +1,22 @@
-*-venv*
-*-env*
+# azure openai .env containings keys and env var stuff
 /azure_openai_stuff/.env
 /azure_openai_langchain/.env
+
+# meta llama 8b model
 meta-llama
+
+
+# no-venv-folder (totally ignore all venv folders!)
+*-venv*
+*-env*
 ml3-8b-instruct
+
+# empty-venv-folders (venv folders and names are included at least, just not contents!)
+# The contents inside a venv folder!
+Include
+Lib
+Library
+pyvenv.cfg
+Scripts
+share
+
