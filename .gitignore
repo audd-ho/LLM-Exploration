@@ -21,3 +21,6 @@ meta-llama
 !**/*-venv*/README.md
 !**/*-env*/README.md
 !**/ml3-8b-instruct/README.md
+
+# model large files too, github doesnt accept, maybe future just delete but for now just ignore them
+pytorch_model.bin
