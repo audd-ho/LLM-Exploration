@@ -1,0 +1,481 @@
+sentences,feeling_category
+"Radiating warmth and kindness, she effortlessly brightens any room she enters.",positive
+"His infectious enthusiasm uplifts everyone around him, spreading joy and encouragement.",positive
+"A beacon of empathy, she listens attentively and offers thoughtful advice without hesitation.",positive
+"His unwavering optimism is a source of inspiration, even in the face of challenges.",positive
+"With a heart full of compassion, she volunteers tirelessly to help those in need.",positive
+"His creativity knows no bounds, constantly innovating and inspiring those around him.",positive
+"A true team player, she fosters collaboration and brings out the best in others.",positive
+"His integrity and honesty are pillars of strength that others rely on and admire.",positive
+"She approaches every obstacle with determination and a can-do attitude.",positive
+"His humility despite his achievements makes him a role model for many.",positive
+"A natural leader, she leads with fairness and empowers others to succeed.",positive
+"His resilience in adversity serves as a testament to his inner strength.",positive
+"With a genuine smile, she effortlessly brightens even the toughest days.",positive
+"His generosity extends beyond material things, always willing to give his time and support.",positive
+"She radiates confidence, inspiring others to believe in themselves.",positive
+"His sense of humor is infectious, lifting spirits and creating camaraderie.",positive
+"She celebrates the successes of others as if they were her own.",positive
+"His patience is endless, always willing to lend a helping hand.",positive
+"With boundless energy, she tackles challenges with enthusiasm and determination.",positive
+"His positive outlook on life is contagious, spreading hope and optimism wherever he goes.",positive
+"Her genuine kindness touches everyone she meets, leaving a lasting impression.",positive
+"His dedication to excellence motivates his team to strive for greatness.",positive
+"With a deep sense of responsibility, she always goes above and beyond expectations.",positive
+"His commitment to learning fuels continuous growth and development.",positive
+"Her grace under pressure makes her a reliable source of strength in difficult times.",positive
+"His boundless curiosity sparks innovation and new ideas within the organization.",positive
+"A natural mentor, she guides others with patience and understanding.",positive
+"Her optimism in the face of adversity is a testament to her resilience.",positive
+"His unwavering belief in teamwork fosters a supportive and productive environment.",positive
+"With a humble demeanor, she never seeks recognition for her countless acts of kindness.",positive
+"His ability to adapt to change ensures smooth transitions and successful outcomes.",positive
+"She approaches challenges with a positive mindset, seeing opportunities in every difficulty.",positive
+"His genuine interest in others makes everyone feel valued and appreciated.",positive
+"Her infectious laughter brings joy to even the most mundane moments.",positive
+"His commitment to fairness and justice makes him a trusted advocate for equality.",positive
+"With a strategic vision, she navigates complex situations with clarity and purpose.",positive
+"His dedication to community service enriches the lives of those around him.",positive
+"Her perseverance in pursuing her dreams inspires others to follow their passions.",positive
+"His humility in success and graciousness in failure make him a role model for humility.",positive
+"With an unwavering spirit, she never gives up on achieving her goals.",positive
+"Her genuine empathy creates bonds of trust and understanding with everyone she meets.",positive
+"His contagious enthusiasm lights up the room and motivates others to action.",positive
+"Always eager to help, she lends a hand without hesitation or expectation of return.",positive
+"His innovative approach to problem-solving leads to creative solutions and breakthroughs.",positive
+"With a calm demeanor, she brings stability and reassurance in times of uncertainty.",positive
+"Her relentless pursuit of excellence inspires those around her to aim higher.",positive
+"His ability to see the big picture allows him to make strategic decisions with confidence.",positive
+"Radiating positivity, she infuses optimism into every situation she encounters.",positive
+"His humility is matched only by his willingness to acknowledge and learn from mistakes.",positive
+"Committed to growth, she continuously seeks opportunities for personal and professional development.",positive
+"His charisma and charm make him a natural leader who people are drawn to follow.",positive
+"Her passion for environmental sustainability drives meaningful change within her community.",positive
+"His dedication to honesty and integrity sets a standard others aspire to emulate.",positive
+"With a heart of gold, she selflessly prioritizes the well-being of others.",positive
+"Her unwavering faith in humanity inspires hope and compassion in those around her.",positive
+"His ability to stay calm under pressure makes him a reliable anchor in turbulent times.",positive
+"Always quick to lend an ear, she provides comfort and support through active listening.",positive
+"His commitment to inclusivity creates a welcoming environment where diversity thrives.",positive
+"With a sharp intellect, she tackles complex problems with clarity and ingenuity.",positive
+"Her generosity knows no bounds, extending kindness to strangers and friends alike.",positive
+"Despite her potential, she often lets self-doubt hold her back from achieving greatness.",negative
+"His pessimistic outlook on life casts a shadow over even the brightest moments.",negative
+"Her indifference towards others' feelings sometimes alienates those closest to her.",negative
+"His tendency to procrastinate has resulted in missed opportunities and setbacks.",negative
+"With a critical nature, she often undermines the efforts and ideas of her colleagues.",negative
+"His reluctance to change stifles innovation and progress within the team.",negative
+"Aloof and distant, she struggles to build meaningful connections with others.",negative
+"His lack of accountability has eroded trust and respect among his peers.",negative
+"Despite repeated feedback, she fails to take responsibility for her own actions.",negative
+"His narrow-mindedness prevents him from considering alternative viewpoints.",negative
+"Her constant need for validation makes her overly dependent on others' opinions.",negative
+"His careless attitude towards details often leads to avoidable mistakes and errors.",negative
+"With a defeatist attitude, she gives up easily when faced with challenges.",negative
+"His arrogance and entitlement alienate those who might otherwise support him.",negative
+"Despite opportunities for growth, she remains complacent in her current role.",negative
+"His tendency to gossip undermines team morale and trust among colleagues.",negative
+"Her fear of failure paralyzes her, preventing her from taking necessary risks.",negative
+"Despite her talents, she often undermines herself with self-destructive behaviors.",negative
+"His inability to listen to feedback hinders his personal and professional growth.",negative
+"Her reluctance to collaborate makes teamwork difficult and inefficient.",negative
+"Her constant negativity drains the energy of those around her, creating a toxic atmosphere.",negative
+"His tendency to blame others for his mistakes undermines team cohesion and trust.",negative
+"Despite promises of change, he continues to fall short of expectations.",negative
+"With a confrontational demeanor, she often escalates conflicts rather than resolving them.",negative
+"His inability to manage time effectively results in missed deadlines and unfinished projects.",negative
+"Her lack of empathy makes it difficult for others to relate to her on a personal level.",negative
+"His resistance to feedback and constructive criticism hinders his professional development.",negative
+"Despite repeated warnings, she continues to engage in unethical behavior.",negative
+"With a closed-minded approach, he dismisses new ideas without giving them proper consideration.",negative
+"Her perfectionism leads to unrealistic expectations and unnecessary stress.",negative
+"His inconsistent work ethic undermines his credibility and reliability.",negative
+"Despite opportunities for improvement, he remains stubbornly resistant to change.",negative
+"Her passive-aggressive behavior creates tension and mistrust in the workplace.",negative
+"His inability to take ownership of his mistakes damages his reputation.",negative
+"Despite being capable, she often chooses the path of least resistance.",negative
+"With a tendency to micromanage, he stifles creativity and initiative in his team.",negative
+"Her lack of transparency breeds suspicion and uncertainty among her colleagues.",negative
+"His disorganization causes chaos and confusion in his day-to-day responsibilities.",negative
+"Despite warnings about confidentiality, he has been known to leak sensitive information.",negative
+"Her tendency to prioritize personal gain over teamwork undermines collective success.",negative
+"His constant complaining brings down the morale of the entire team.",negative
+"Despite opportunities for growth, she remains stuck in a cycle of mediocrity.",negative
+"With a habit of making excuses, he fails to take accountability for his actions.",negative
+"Her lack of initiative frustrates those who depend on her to take action.",negative
+"His passive demeanor allows others to take advantage of his kindness.",negative
+"Despite her potential, she consistently underperforms in critical tasks.",negative
+"His disregard for deadlines disrupts workflow and causes delays.",negative
+"Her tendency to gossip spreads rumors and undermines trust in the workplace.",negative
+"Despite repeated warnings, he continues to exhibit unprofessional behavior.",negative
+"With a tendency to exaggerate, she often distorts the truth to fit her narrative.",negative
+"His reluctance to collaborate isolates him from valuable team contributions.",negative
+"Despite promising ideas, she struggles to execute plans effectively.",negative
+"His lack of empathy towards colleagues creates a hostile work environment.",negative
+"Her reluctance to adapt to change hinders progress within the organization.",negative
+"Despite clear instructions, he frequently overlooks important details.",negative
+"With a habit of interrupting, she fails to respect others' contributions.",negative
+"His habit of over-promising and under-delivering damages client relationships.",negative
+"Despite his intelligence, he lacks common sense in practical situations.",negative
+"Her disregard for feedback impedes her professional growth.",negative
+"His tendency to hoard information creates silos and hampers teamwork.",negative
+"She walked into the room with a calm demeanor, surveying the space quietly and attentively.",neutral
+"The weather forecast predicted mild temperatures and occasional clouds throughout the upcoming week.",neutral
+"The book on the shelf had a plain cover with simple text, indicating its general content.",neutral
+"At the meeting, each participant contributed their thoughts in a structured and orderly manner.",neutral
+"The building's architecture featured clean lines and a functional design, reflecting its utilitarian purpose.",neutral
+"The new software update included several bug fixes and performance improvements without any major changes.",neutral
+"He answered the questions during the interview with clear and direct responses, staying on topic.",neutral
+"The garden was well-maintained, with neatly trimmed hedges and evenly spaced flowerbeds.",neutral
+"The road ahead was straight and unobstructed, with clear signage indicating the direction to follow.",neutral
+"The conference room was equipped with basic furniture and audiovisual equipment for presentations.",neutral
+"Her explanation of the process was straightforward, detailing each step without unnecessary elaboration.",neutral
+"The landscape was a mix of flat fields and gentle hills, characteristic of the regional geography.",neutral
+"The report provided an overview of the project’s progress, including key milestones and upcoming deadlines.",neutral
+"The painting on the wall depicted a serene scene, with soft colors and balanced composition.",neutral
+"The restaurant's menu featured a variety of dishes, each described in simple, descriptive terms.",neutral
+"The lecture covered fundamental concepts in a clear and organized manner, suitable for beginners.",neutral
+"The online article presented an unbiased view of the topic, supported by factual information and data.",neutral
+"The office layout was functional, with workstations arranged to maximize efficiency and ease of access.",neutral
+"The public park had a variety of amenities, including benches, walking paths, and well-maintained lawns.",neutral
+"The film's plot was straightforward, following a linear narrative with a predictable sequence of events.",neutral
+"The library was quiet and orderly, with books arranged neatly on the shelves.",neutral
+"His report included detailed statistics and charts, providing a clear view of the data.",neutral
+"The kitchen was equipped with standard appliances, including a refrigerator, stove, and microwave.",neutral
+"The event schedule was posted on the bulletin board, listing times and locations for each activity.",neutral
+"The hotel room was furnished with basic amenities such as a bed, desk, and television.",neutral
+"She provided a brief overview of the company’s history during the presentation.",neutral
+"The park featured several walking trails and picnic areas, suitable for outdoor activities.",neutral
+"The instructions were written in plain language, making them easy to understand and follow.",neutral
+"The street was lined with trees and streetlights, contributing to a well-lit and pleasant environment.",neutral
+"The online course covered fundamental principles, with modules designed to build knowledge progressively.",neutral
+"The artist’s work was displayed in a simple gallery setting, allowing the pieces to be the main focus.",neutral
+"The computer screen showed a clean interface, with icons and menus arranged for ease of use.",neutral
+"The public transportation system included buses and trains, providing various options for commuters.",neutral
+"The classroom was equipped with desks, chairs, and a whiteboard for instructional purposes.",neutral
+"The neighborhood was characterized by residential houses and well-maintained sidewalks.",neutral
+"The menu offered a range of beverages, from soft drinks to coffee and tea.",neutral
+"The laboratory had basic equipment for experiments, including beakers, test tubes, and microscopes.",neutral
+"The conference featured a series of workshops and keynote speeches, organized by topic.",neutral
+"The apartment was designed with an open floor plan, including a living area and kitchen space.",neutral
+"The exhibition included a variety of artifacts, each labeled with descriptive information.",neutral
+"The garden had a variety of plants, including flowers, shrubs, and trees, all neatly arranged.",neutral
+"The office was decorated with minimalistic furniture and neutral colors, creating a professional atmosphere.",neutral
+"The weather was consistently mild, with temperatures ranging from 60 to 70 degrees Fahrenheit.",neutral
+"The store’s layout was designed for easy navigation, with clear signage and organized sections.",neutral
+"The webpage featured a simple design, with a header, body text, and footer clearly delineated.",neutral
+"The classroom was equipped with basic educational tools, such as textbooks, notebooks, and a projector.",neutral
+"The apartment complex included amenities like a gym, swimming pool, and laundry facilities.",neutral
+"The report outlined the project’s objectives and timelines, presented in a clear and concise manner.",neutral
+"The trail through the woods was marked with signs, guiding hikers along the path.",neutral
+"The museum exhibit displayed historical artifacts in well-lit cases, with informative labels.",neutral
+"The computer program included a user-friendly interface, with easily accessible menus and options.",neutral
+"The bakery offered a selection of baked goods, including bread, pastries, and cakes.",neutral
+"The public library had a variety of books and media available for borrowing, organized by category.",neutral
+"The meeting room was equipped with a conference table, chairs, and a whiteboard for notes.",neutral
+"The service center handled customer inquiries and provided support for various issues and concerns.",neutral
+"The road construction was signposted with warnings and detours to guide drivers safely around the area.",neutral
+"The hotel’s lobby featured comfortable seating and a reception desk for checking in and out.",neutral
+"The grocery store was stocked with fresh produce, dairy products, and pantry staples.",neutral
+"The park’s playground included swings, slides, and climbing structures for children.",neutral
+"The software included a help section with tutorials and FAQs to assist users with common issues.",neutral
+"The room was filled with a cacophony of sounds, with conversations, alarms, and music all blending together.",chaotic
+"Files and documents were scattered everywhere, creating a cluttered landscape of mixed-up information.",chaotic
+"The event schedule was a patchwork of overlapping times and locations, with no clear sequence of activities.",chaotic
+"The street was a labyrinth of signs and barriers, with routes changing unpredictably as you drove.",chaotic
+"People moved in all directions at the festival, with no clear paths or organization among the crowds.",chaotic
+"The new software interface was a jumble of buttons and menus, with no obvious way to navigate the options.",chaotic
+"The construction site was a whirlwind of machinery and materials, with equipment moving in every direction.",chaotic
+"The emergency drill involved rapid and erratic movements, with instructions given in a disordered fashion.",chaotic
+"The storage room was packed with a chaotic mix of supplies and equipment, making it hard to locate anything.",chaotic
+"The traffic lights were malfunctioning, resulting in a constant and unpredictable flow of vehicles at the intersection.",chaotic
+"The brainstorming session was a flurry of disconnected ideas, with participants shouting out concepts without coordination.",chaotic
+"The restaurant's menu was a confusing array of dishes with no clear categories or organization.",chaotic
+"The neighborhood was a swirl of various construction projects and street closures, creating an ever-shifting landscape.",chaotic
+"The classroom was filled with a mix of disorganized papers, unplanned activities, and random student comments.",chaotic
+"The online platform experienced a barrage of simultaneous user requests, causing a chaotic mix of notifications and errors.",chaotic
+"The grocery store’s layout changed frequently, with aisles and sections being rearranged without notice.",chaotic
+"The park was a scatter of picnic areas, playgrounds, and trails, with no clear map or directions for visitors.",chaotic
+"The data presented was a mash-up of incomplete charts and mixed metrics, with no cohesive overview.",chaotic
+"The festival grounds were a mix of tents, stages, and activities, with no discernible order to the setup.",chaotic
+"The art gallery displayed a haphazard collection of pieces, with no clear theme or arrangement.",chaotic
+"The festival was a swirl of performers, food stalls, and impromptu gatherings, with no discernible order or layout.",chaotic
+"The online form was a jumble of fields and checkboxes, with questions appearing in a random, unpredictable sequence.",chaotic
+"The construction site was filled with a flurry of moving parts, from cranes to trucks, all operating in a tangled mess.",chaotic
+"The data dashboard displayed an overwhelming mix of graphs, tables, and alerts, all competing for attention.",chaotic
+"The library was a disarray of books and papers, with no clear system for organization or categorization.",chaotic
+"The street market featured a chaotic mix of vendors, each with different setups and no uniform arrangement.",chaotic
+"The experiment’s results were a chaotic blend of unexpected outcomes and irregular data points.",chaotic
+"The office's open plan was a mess of scattered desks, personal items, and random office supplies.",chaotic
+"The website's homepage was a chaotic mix of pop-ups, banners, and links, with no clear focus or navigation.",chaotic
+"The event’s schedule was a confusing array of overlapping panels, sessions, and activities without any clear order.",chaotic
+"The art installation featured an eclectic mix of materials and styles, creating a visually chaotic experience.",chaotic
+"The conference room was filled with a chaotic blend of presentations, papers, and interruptions from all sides.",chaotic
+"The emergency response was a chaotic mix of overlapping sirens, shouting, and urgent activities.",chaotic
+"The social media feed was a rapid stream of mixed posts, with trending topics and personal updates blending together.",chaotic
+"The workshop had a chaotic flow of activities, with participants jumping from one task to another without a clear structure.",chaotic
+"The kitchen was a whirlwind of cooking utensils, ingredients, and dishes, all piled up in no particular order.",chaotic
+"The neighborhood was a chaotic blend of different construction noises, with various projects happening simultaneously.",chaotic
+"The online meeting was a chaotic mix of overlapping voices, screen sharing issues, and technical glitches.",chaotic
+"The shopping mall was a maze of crowded stores, random displays, and inconsistent layouts.",chaotic
+"The laboratory was a whirlwind of experiments, with equipment and samples scattered in every direction.",chaotic
+"The street was a whirlwind of flashing lights, construction noises, and unpredictable traffic patterns.",chaotic
+"The sports event was a blur of players, referees, and spectators, with constant movement and noise.",chaotic
+"The party was a chaotic mix of people, music, and decorations, with no clear space or arrangement.",chaotic
+"The museum exhibit was a haphazard collection of artifacts, displayed with no apparent theme or order.",chaotic
+"The festival grounds were filled with a chaotic blend of tents, stages, and food stalls, all intermingling.",chaotic
+"The airport terminal was a frenzy of travelers, announcements, and moving walkways, creating a confusing atmosphere.",chaotic
+"The email inbox was a chaotic mess of unread messages, urgent alerts, and promotional content.",chaotic
+"The construction site was a tangled web of scaffolding, machinery, and workers all operating without a clear pattern.",chaotic
+"The software application was a chaotic interface of overlapping windows, confusing icons, and mixed commands.",chaotic
+"The park was a chaotic mix of children playing, dogs running, and picnickers scattered around.",chaotic
+"The fashion show was a whirlwind of models, flashing cameras, and rapidly changing outfits, all blending together.",chaotic
+"The office was a mix of scattered papers, random meetings, and overlapping phone calls, creating constant confusion.",chaotic
+"The trade show featured a chaotic array of booths, demonstrations, and promotional giveaways, all competing for attention.",chaotic
+"The city’s streets were a chaotic blend of traffic jams, construction detours, and emergency vehicles.",chaotic
+"The academic conference had a chaotic schedule of presentations, workshops, and networking events, all overlapping.",chaotic
+"The restaurant's layout was a chaotic arrangement of tables and chairs, with diners and servers moving in all directions.",chaotic
+"The social event was a chaotic mix of conversations, loud music, and impromptu activities, with no clear structure.",chaotic
+"The library’s renovation led to a chaotic arrangement of bookshelves, construction materials, and misplaced books.",chaotic
+"The online game was a chaotic scene of fast-moving characters, constant alerts, and unpredictable events.",chaotic
+"The holiday parade was a whirlwind of floats, bands, and crowds, with no clear order or sequence to the festivities.",chaotic
+"The flibberwocky zoodlesplint meandered through the quizzleflap, causing a jibblewock of snarfblats.",gibberish
+"Zorptastic flimmendoodles sprangled the plonkish flibber with a wibblesnarf of drindled blorp.",gibberish
+"Jibblewumps and flibberwibbles danced through the quorfleblap, creating a snizzle of groft!",gibberish
+"The frobnix glorped as it zoodlesplatted, making the whizzlefrap pop with a blarnick blop.",gibberish
+"Snarfblat flimmering through the yibblewock caused a wibberfloop of zizzlecranks and drindlepop.",gibberish
+"The gropmendoodle snarfed the zibberflap, causing a plopstinkle of wibblewacks and zoodlenaps.",gibberish
+"Blornkets and flibberflops zibbled in the whizzlecrank, creating a quibblesnarf of froplendinks.",gibberish
+"The splibberwock twizzled through the drindleblap, making a quorp of snizzleblats and glorpwibbles.",gibberish
+"Froplendoodles whizzled as the zibberflap jorped with a snarfleplop and blorptastic grop.",gibberish
+"The zizzleflap dribbled with a flonkblat of frobnicks and whizzlecranks, creating a splibberwock of gloop.",gibberish
+"Blorflewacks zibbled around the snarfblat, making a plinkthorp of drindleflops and quibblewocks.",gibberish
+"Flibblewocks and snarfleblaps glorped in the zibbleflap, creating a wizzlepop of froplendoodles.",gibberish
+"The jibberwock danced through the groftsnip, causing a wibblecrank of blornkets and splonks.",gibberish
+"Snizzlewocks whizzled and drindled as the zorp flap jibbled with a glorpblat and frizzlefloop.",gibberish
+"The drindlecrank blopped with a snarfleflop, creating a zibblesnarf of froplendinks and whizzlebops.",gibberish
+"Froblitzers quibbled through the plonkish zoodles, making a groft of snizzleblats and blorpwibbles.",gibberish
+"The wibberwock zibbled and plonked through the drindlesnap, creating a quorptastic blonklepop.",gibberish
+"Blonkdrips snarfled as the zibberwock danced with a splibber of groftblats and zizzlecranks.",gibberish
+"The snarflepop dribbled with a froblonk of glorpwibbles and wibbercranks, causing a zibblewock.",gibberish
+"Froplendoodles flonked as the zibbercrank snarfled through the glorp, creating a quibblewack of snizzleflops.",gibberish
+"The blorflesnarp zibbled through the quibbleflop, making a jibblewock of snarflewhats and zoodlecrinks.",gibberish
+"Frizzlewocks and drindleplops whizzled in a snarflecrank, creating a frobnix of zibblewocks and glorp.",gibberish
+"The snizzleplop zorped as the glimblesnarf wibbled with a quibberplop and frobblewock.",gibberish
+"Zibbleflaps and groftwocks flimmered in the plopsnick, causing a wibblecrank of snarfleblats.",gibberish
+"The plonkfrap flibbled with a drindlewock, creating a zorp of snizzlefloop and quibblepop.",gibberish
+"Glorpblats and snarflewhats twizzled in the zibberflap, making a blonklepop of drindlecranks.",gibberish
+"The fribblewock zibbled and snarfed as the glibberflap made a wizzlecrank of quorpblats.",gibberish
+"Snizzlewhats and flimmerblaps zorped through the groftwock, causing a fribberpop of quibblefloop.",gibberish
+"The drindlewhack snarfled with a wobbleplop, creating a zibblecrank of frobnix and whizzleflaps.",gibberish
+"Blorptastic zibbles and whizzlecranks dribbled in a froplendoodle, causing a snarflepip of groft.",gibberish
+"The zibberwock flonked through the glorpblap, making a snizzlefloop of quibblewocks and drindleblats.",gibberish
+"Froplendinks and blorflepops zibbled through the snarfleflap, creating a groft of zibblecranks and whizzles.",gibberish
+"The snarflewhats zorped and blorped in a fribblewock, making a zibbleplop of quibblefloop.",gibberish
+"Quibbleblaps and groftwibbles snarfled through the zibblewhack, creating a frobnix of glorpblats.",gibberish
+"The glorpwock flibbled as the snizzlepop zibbled with a fribblecrank and blonkfloop.",gibberish
+"Drindlecranks and froplendoodles zorped in the blorfleplop, causing a wizzlecrank of snarflewhats.",gibberish
+"The quibblefloop zibblewocked through the groftblat, making a snizzlewhack of drindlesnarf.",gibberish
+"Flibblewocks and snarfleblats twizzled in the zibberwhack, creating a quorp of fribblefloop and groft.",gibberish
+"The snizzlefloop zorped with a blorpwock, causing a fribblepop of zibblecranks and snarflewhats.",gibberish
+"Groftblats and quibblewocks flibbled through the zibblewhack, making a zorp of snizzlecranks and froplendoodles.",gibberish
+"The wobblecrank flibbled through the snizzlepop, causing a quibblewhack of frobnix and glorpblats.",gibberish
+"Zibblewocks and snarfleflaps zorped in the fribblewock, creating a blorp of quibblefloops and groftwocks.",gibberish
+"The drindlewhack zibbled as the plonklecrank zorped with a snizzleplop and froblonk.",gibberish
+"Snarflepips and glorpwibbles twizzled through the zibberflop, causing a quibblepop of snizzlecranks.",gibberish
+"The blorflecrank snarfled with a fribbleplop, creating a zibblewock of quorpblats and drindlesnarf.",gibberish
+"Froplendoodles and snizzlewocks flibbled in the groftplop, making a zorp of fribblewhats and glorpblats.",gibberish
+"The zibberwhack zorped through the snizzleplop, causing a wibblecrank of quibblefloops and frobnix.",gibberish
+"Groftwocks and fribblecranks zibbled in the blorpwock, creating a snarfleflap of quibblewhats.",gibberish
+"The plonklewhack flibbled with a snizzlecrank, making a fribblepop of zibblecranks and froplendoodles.",gibberish
+"Snizzleblats and zibblewocks whizzled through the groftplop, causing a quorp of fribblefloops.",gibberish
+"The wobblefloop zorped and blorped in the snarflepip, creating a zibblecrank of groftblats.",gibberish
+"Quibblewhats and snizzlewocks zibbled through the plonkcrank, causing a blorp of froplendoodles and groft.",gibberish
+"The fribblewock flibbled through the snizzlefloop, making a quibblewhack of zibblecranks and frobnix.",gibberish
+"Glorpblats and fribblefloops snarfled in the wobblecrank, creating a snizzleplop of quorpblats.",gibberish
+"The zibberplop twizzled with a snarflepip, making a zibblewock of fribblewhats and quibbleblats.",gibberish
+"Snizzlecranks and groftwocks zorped through the blorpplop, creating a quibblefloop of fribblewocks.",gibberish
+"The plonklewock flibbled with a snizzlepop, causing a wobblecrank of quibblecranks and froplendoodles.",gibberish
+"Froplendoodles and snarflewhats zibbled in the snizzlewhack, creating a blorp of zibblecranks and groft.",gibberish
+"The quibblefloop zorped through the glorpblat, making a snarflepip of fribblewocks and zibblewhack.",gibberish
+"Blorpwocks and snizzleplops flibbled through the groftplop, causing a quibblewhack of zibblewocks.",gibberish
+"Rplxkfwz Qdjnrmv Xieowhp Tzlgcvu Mtysbk Wkjxqo Zfrbndc Lvapsgd Wtuqyb Rmpkxno Ydsfvh Lxjqec Tnzgior Brklyw Qmpecx Wtrbzo",true_random_gibberish
+"Gxnwkp Zdshyvt Lrfqmc Xojmdp Tzqfub Hrlcxv Koyjpn Mzdcwe Tprxjq Lvlrwo Yfkset Qmdncb Vwjzlx Rgihpo Bvtyzq Ksyxwj",true_random_gibberish
+"Lxjdwkm Hnbzvq Rzptlc Qgoewx Kfyrms Zjcbdp Tvlhpo Wxrne Gzskvq Mnhbix Rjotyd Pbfwmn Lqvcth Xgopwy Fkrljz Wyzrpd",true_random_gibberish
+"Gwlxrjm Qkdbnh Yfztcp Pvojwl Zrthme Nsbkxd Lwvjqu Oiuwpc Rpfyxl Tkdnvr Zxjmrh Wrbzlg Hqioxf Cmtvyp Kdgnjw Bpeuyq",true_random_gibberish
+"Mvxjbr Tlkpyd Zfqmrn Hegvwx Ldzyqp Qwbjof Rkxpvl Yoiubc Nsczrg Wtrblf Kjpdye Zghqmk Rxlwtn Fmpnvo Cdyjrz Bslqio",true_random_gibberish
+"Qmwdgk Hblfxp Zyprvn Lctjzw Rskhob Tgvxyq Qnljpf Wzkrmc Obncyx Ftdpsv Lirjow Yqmbwx Zchfeu Tpkvjd Wrfzlg",true_random_gibberish
+"Lwvjpd Ykbzmc Hrxnfg Zpmdqo Fltxwr Qgwevn Rkjxoc Vsdnpl Mbyzoq Wtrcxf Kiwjea Zqxrh Wbdnlk Lfyptg Hszmcv Qocjdn",true_random_gibberish
+"Pzyxjl Khtcvr Ndbswq Rgikze Lxmvfo Wcjnrb Qpyevx Sztloq Mlfbkw Yvpgdr Hmnxow Tjebkp Lwzqci Vhrfpm Qsojrd",true_random_gibberish
+"Jbxovw Nsfmkq Yzcwpl Qkdtvn Rjxpog Tlgwzf Hpycnb Xmrjuv Lzqtwc Vdiybx Fhpomk Rcrzgj Wtqfsn Nlwoji Kbpxmv",true_random_gibberish
+"Hrmtbx Ykpnv Qlcjzw Fprvxd Omgblj Wdxoqt Zivucm Rwskfe Lnbgdh Kzqxrc Tspmvo Wflzpd Ygkwrb Nvjxql Htbsfc",true_random_gibberish
+"Jxmvqd Qplzyf Rsbcnw Yfgtop Kcwejh Tlrnbm Vgzoxk Nsqxpd Lfhbvc Wmjkzr Qrwold Xydjmv Hkptql Bfznso Wtcgrx",true_random_gibberish
+"Tqovfn Lmxdpr Zkrjbc Hfyvow Qlrxct Wpjkze Nsbldq Ygmvwt Kxvrpf Rofqjn Tslbmc Wdoyrv Qhnzjp Mlbxkw Hfcqry",true_random_gibberish
+"Rhpjzx Qlvdcn Wkbgyp Xytwmv Ndzfro Kqwslh Mjvibc Lsxrpz Htfqwo Ykpjdm Nlbgv Rzowqf Vtcrjh Poyxsl",true_random_gibberish
+"Wzoymc Tqfrxk Vpjhdg Lxkobr Ntfwuv Yhmglq Rbcjzv Qwoxnp Kdpfmj Zrlyqe Hbncsx Wmldtv Qsorxp Lujkgd",true_random_gibberish
+"Rdfyzx Kbmtqc Wjovnl Xshgrp Lwqzfu Pcxojk Nyrmdv Qgtbvx Vplkso Zfhryc Lmwdxn Hjrbcq Tskfpg Yvohjl",true_random_gibberish
+"Mzqrbp Wjoksv Xlydnc Qhptgf Kvnfrz Ywljx Rzcpot Lmvdhb Nxtuoq Qbfkyp Hwrnzc Tgjlmr Vxpzyw",true_random_gibberish
+"Lzmrcx Qkfpnd Wxvzor Hdbjyt Mjqlwf Ytrcvo Znhpxg Ksgwlj Rqnvud Tpfhxb Wcdzrs Ybmrpl Nlwyko",true_random_gibberish
+"Wzjfvx Lcdpko Qrnmbt Xohsjk Kmvgyw Rfztqj Yclnrx Mxkvwb Qdgopl Zytjnw Hsbrf Lweqmd Tkpvxo",true_random_gibberish
+"Rmpxkt Lqgvyj Wzsdco Xlbnrt Yfhmpk Qjrzov Kcwtlu Hdbsfx Mvljoq Znpbxy Tpgdcr Yswemk",true_random_gibberish
+"Tgwrkp Qbczyo Wmvjx Hflprt Zydxwc Nslqoj Kvxhzb Rjmdof Xytnpl Lkpqfr Ybwjmz Qhrdvc",true_random_gibberish
+"Vrbkzpq Hxdmcw Ytwjfo Zglnsp Mvrtdk Qcwbko Xrlfyd Ztmgsp Bnkxdj Tpwvuf Lrjhoe Zscqnb Ykvxmd Qhjgfw Xyzbkp Rmoqwl Jxpvde Lbktzf Yoshrn Dvqfml Qyxgcp Rljzxo Tbnwvr",true_random_gibberish
+"Gmrtbq Xlwvne Zkqpdj Jxsflo Ynhczv Rbqgdm Wtjxrl Fpkyuo Lrmbpd Zwsqvn Cxkpgt Yjxwfe Mzrclo Hfwdvn Tjprks Vloqnb Qcdzxu Rgkypm Zvlbwo Wfnxrd Tpsqhi Ljyfvw",true_random_gibberish
+"Wtpjqk Fmrzxc Lhndpw Zgbfry Yvwsml Rdxpoj Ktfhce Qxmkvd Jzrbxn Vnypqw Lgtrdc Hkvlbf Zsdywo Tpxmrv Lcybqe Qnjgrx Wzplvd Rmofqc Tjkrzv Xhdlgn",true_random_gibberish
+"Zbmrkp Qtdfnx Yvwglh Xjcfoe Rmkdsp Vnlrwy Hqzptv Gzxdol Tbcfwy Lmvxrk Wjpylo Qshzxd Btlrkp Zowvme Fskjqn Xphwrl Hcybvn Qtkxjd Mflrwy",true_random_gibberish
+"Fypnbd Wktocq Qmrhzl Xgvdpc Zlneoj Jyswvf Bxlpzr Rndkqi Vwjmle Hgzqvo Kxrycf Tplhbn Zmrdkg Yfsqpj Vtwxlj Rkdnzq",true_random_gibberish
+"Vnkqpd Zyxrct Hmowfj Lxrwce Yhjpzd Qbtmro Xcvwkl Fdlsjp Rmvznh Kxpcwb Gqdoey Nwtbkr Ylfgsj Xrjofe Tqznbv",true_random_gibberish
+"Xphkzd Womvrq Ftyjcn Rbklws Yzvpxg Ndfjoc Qhztrv Lrmpkw Jvcefd Xznsqb Ktrolm Ypwnfr Djsbvx Qfmhpo Lxgkcr Vwdzpl",true_random_gibberish
+"Krgztc Xlqnbp Ydjfos Mvwnle Hxbkpv Qtrwje Lzsmnd Fgkrcd Zptxwo Jcvmbn Yhrxpl Wdfqoz Rknjgs Tfbvwm Xpdzlc",true_random_gibberish
+"Tnqkpx Lsvbmc Zfdyxr Wgzqon Rvthpw Jkmzdl Qxcrgv Mphowz Yrfvxl Xlkjgb Wznmct Lpjoyk Hscvdq Ymtzrk Vbqjwf",true_random_gibberish
+"Wmrndk Yfpbvg Qzslxd Ktrjow Xdphme Rznjlc Hqkxvp Lbyfgo Vwcrdz Tjxwlo Yfrnkb Mwdcpg Lqmhsy Zxdbrt",true_random_gibberish
+"Hpzvql Mjkfwo Ygcrbs Lxpdzq Rtvxne Qjflkm Wkmdsg Yzwjxc Bspqvn Tzfhre Lnhvdc Xygrtq Qfrkbl Zpmxvo Lwdjso",true_random_gibberish
+"Tqzvdp Rylqow Xgkcmh Zjsbro Wfdknc Lhxjpv Yrmzbq Vnbfjo Ktpdxe Qlwyzr Xncfos Mwbgrj Hsldkv Yxmtpc Zrjqgb",true_random_gibberish
+"Wmrkpx Zsfqdl Htjgop Yblcwv Qvnjxe Kxpmrj Lgdbny Xhwtvz Rzkvso Fdlqcn Yxwbfm Qjbrzp Mvhnwq Ltcodj",true_random_gibberish
+"Nqkxlz Wtdmpo Ygvwqf Jhrbce Zrxmld Fpvcdo Xzbljn Lqmdsy Rftwno Qjkbxc Yshqvd Mxpdwr Vzlrgj Kylbwf",true_random_gibberish
+"Rtnkjp Qwfzsl Lypmrb Xgkvoj Wxdctq Ynhbrm Fvclso Zrpwkj Mblxvq Tdphec Kmrwvn Qjsfob Lzwypt",true_random_gibberish
+"Jwpbzy Xqgldf Kmrctn Yvzohr Lzqbdx Wnlpvj Rsdgxf Qfokmw Vtbjyr Hpzmdn Lwvxqc Ybrfzo Xklqjd Tchpbv",true_random_gibberish
+"Rqkpjz Mdvlfw Xnoyec Zgkrmb Hplstw Ycdjvn Qxwhfp Lzgrbo Tnkxdv Vmbjql Lwfcrd Jzqrbm Xotkcy",true_random_gibberish
+"Wnbxjz Lhdtfg Yckowq Rpsnvc Kxvleb Zmrjqd Fpvzow Tjbhxk Qlwdfn Xzgmoj Mrlvnb Ycwpqf Rzktvx",true_random_gibberish
+"Lrmfkw Qpxrjd Hncbzy Zvtgpl Xsdjwc Yhkwqo Rvmltx Kqpgjf Wtfbne Lzxqor Mphdjc Vnrbwy Tszkvo",true_random_gibberish
+"Fplvnr Jzxkwm Qbsyoc Rdfgkj Xycvzp Ktbrxl Wsmnhy Zowqfn Hpqxjc Ldvrxg Mtnjsy Vxwbqd Ylkpzr",true_random_gibberish
+"Xvknwpl Ztsjcf Mrdgkb Yqoixz Wpxrnj Lbfdyq Kzmthc Qvowxr Hplfjb Vydcmk Zrlsoq Qbkxvd Tjpmtc Xynfrw Lwbgoh Gsrkqz Ndoitc Zykbwp",true_random_gibberish
+"Jznvpt Rqfhdw Lbxgkq Yopzvc Tmwrex Kcpljb Zsfqnd Xjvdmo Htrlgz Vwycqn Lkbxvf Mpgjze Qdcrhw Ylfozt Rnjqvp Xwsklo",true_random_gibberish
+"Ywlmfp Xbdzkv Qpcvhs Rtmogj Znrwqx Lsjvgb Wkcrd Tnqowp Vhgrzb Mxkfdj Yozrlt Rjmksc Xzqnvh Lptwob Kbgfme Wydhsn",true_random_gibberish
+"Jqvsxr Kdbhzp Lympqw Xtdjnf Zfocle Wgmrkb Qnrjyp Vxwzlg Mbtvdk Yklrhw Rjfxnq Lpwozy Zcgmjd Thbsvr Qyploc",true_random_gibberish
+"Tgplzq Kfhdwv Xbmtro Zjnysc Qrwljo Lmzpkn Yxgdbv Rkwcfp Vtqhsn Jxlbmo Hfpdqr Mvtyzk Xrjdnw Lsgcwb Zxylvf",true_random_gibberish
+"Rnkxjw Tqlcmo Zpvrbe Ygfwjx Ksmvnd Hxpbzy Lcfqkt Wjdoqr Xnrlmg Vtbkqw Ysdhvp Zcrjfo Lqrmze Wpxnrb",true_random_gibberish
+"Xgqplb Mzskwv Ybdjrf Htmcno Qxwkrz Lvsdjq Zrfcpt Wyljmo Kxprzv Nbhqrf Jgtlxy Vdpowm Rjznbk Lfcwds",true_random_gibberish
+"Wczbdk Qmfyvj Lxrhod Zntgwp Yplkmr Xwvnsq Kdgzfc Rmjtlp Hptcwe Vxjbzo Yqgknd Lbzwcf Tnoxhr Mvwkpl",true_random_gibberish
+"Lfrqyb Tnpwso Kzgxmd Xpjbvn Qztrhd Vcljwo Rmgykp Wdsnbh Lxvzcq Yhfqmp Zkbjlr Jdwnco Rftgks Mvbhxz",true_random_gibberish
+"Zbkwpl Hjtqfd Xydrnq Qnspgb Vklmzo Lmrjwv Rfpcxn Ytzlko Wgdsbc Kqvhlx Lrxmpn Vzfhjt Yowkdz Mplbcy",true_random_gibberish
+"Fvmpjb Zlhnro Xytqwd Qpkjvc Rsbwxy Kdtznv Lrmfoc Wjqgkp Ybcnlx Zvfswd Xgpohr Lqmdvk Rwnzfe Tylscx",true_random_gibberish
+"Qfgxtn Vbjpwy Kldszm Xovrhn Lqpcjd Wryxfo Zhkgbm Mnlcpr Tjsqvr Yzwkox Lxrfjd Hmpbqe Rzvltc Kfdpwn",true_random_gibberish
+"Wbdjmf Zrfcxl Xgpvkb Lshwoc Kjtqvn Ympwzq Rnchxo Tlpgyf Vdwsrq Lqznbj Xymcdo Hkfvpz Nbgjdq",true_random_gibberish
+"Tszvpl Xynfdw Kqrbjv Lmwgzc Yoxqhr Rjldcf Vpkmto Wgbzqe Nxyhdo Fsdmrl Qvjkcw Lrnxzw Yhctbq",true_random_gibberish
+"Rztmbx Xfwdlk Ypjvno Kqgdzc Lrhlvq Wmsnoy Vbcktr Qjovze Lpfgdh Xzyrws Mtnxdq Hrljop Ybscwp",true_random_gibberish
+"Ybgpmd Xfrjzl Ktqovw Lrzshc Qwbjko Vxndgf Wymzpc Htqvln Rpldxs Mzcjhy Lvnfow Zrfwkp",true_random_gibberish
+"Wjxfzr Qpdhyb Lmtwov Xcjknd Ylrqsz Kbgvmp Rfcslo Tzxvqn Lrpwce Hmndjg Vzqkyx",true_random_gibberish
+"Ztrbqd Lkcnjw Xyvpom Qsfgrh Wdploz Rvnkxe Hxmjfw Ybgctk Ldqrnc Tzjvpb Xqwhro Mvklxe",true_random_gibberish
+"Fjqyvm Ksbplx Zdmnqv Wcrgko Xlpyzd Htnbwj Rjofpq Lxwsmd Yhvztk Tqcnbv Vdghpl",true_random_gibberish
+"Lmpvfc Qxdybh Xztwkl Yovgmd Zbnfwr Rjkspl Tdlcxo Wfgzqr Ktnpvb Hxrmjw Lcoynx",true_random_gibberish
+"Hewwo! I hope you'we having a wondewful day and aww the nice things awe coming youw way! UwU",uwu
+"Whewe awe you going? I wanna come awong and have a wot of fun together! OwO",uwu
+"I just wuv you so much and you'we the bestest fwiend evew! ^_^",uwu
+"Dewemembew to aways twy youw best and be kind to evewyone awound you! >w<",uwu
+"Wanna go get some yummie snacks and pway some games? It'ww be so much fun! >ω<",uwu
+"I am so gweatful fow having you in my wife, you make evewything bettew! (≧∇≦)",uwu
+"Whewe did you get that adowable outfit? It's so cute and you wook pawsome! ^w^",uwu
+"I can't wait to heaw about youw adventuwes and what you'we up to watewy! :3",uwu
+"Wooking fowawd to ouw next hangout, it's awways a bwast when we're togethew! UwU",uwu
+"Wishing you aww the happiness and wuv in the wowld, you desewve it aww! owo",uwu
+"Hewwo! I just wanted to say how much I appweciate you and you'we so special! ^_^",uwu
+"Did you see the latest movie? It was so funny and the chawactews wewe so cute!",uwu
+"Let's have a picwic in the pawk and enjoy the sunshine togethew, it'ww be gweat! >ω<",uwu
+"I aways have so much fun chatting with you, you make evewything better! ^w^",uwu
+"I hope you'we having a wewaxing and nice day, full of happy moments! (o^▽^o)",uwu
+"Thank you fow being such a wondewful fwiend and always being thewe fow me! >w<",uwu
+"Can we pway some video games togethew soon? I'ww wuv to team up with you! UwU",uwu
+"I wuv youw positivity and how you always bwing a smile to evewyone's face! owo",uwu
+"Let's have a fun movie night and enjoy some yummie popcorn and snacks! ^_^",uwu
+"You'we the best and I appweciate aww the wovely things you do! Thank you so much! (｡♥‿♥｡)",uwu
+"Hewwo! I hope you'we having a wondewful day and that aww the nice things awe coming youw way, I can't wait to heaw about youw exciting news! UwU",uwu
+"Whewe awe you going? I wanna come awong and have a wot of fun togethew, maybe we can explore some new pwaces and eat some yummy food! OwO",uwu
+"I just wuv you so much and you'we the bestest fwiend evew, I aways wook fowawd to spending time with you and making more memowies togethew! ^_^",uwu
+"Dewemembew to aways twy youw best and be kind to evewyone awound you, it'ww make a big diffewence and spwead positive vibes evewywhewe! >w<",uwu
+"Wanna go get some yummie snacks and pway some games? It'ww be so much fun, we can pick out ouw favowite snacks and pway untwiw we'we all tiwed out! >ω<",uwu
+"I am so gweatful fow having you in my wife, you make evewything bettew and I can't imagine my days without you, you'we the bestest! (≧∇≦)",uwu
+"Whewe did you get that adowable outfit? It's so cute and you wook pawsome, I bet evewyone is wowed by how stunning you awe! ^w^",uwu
+"I can't wait to heaw about youw adventuwes and what you'we up to watewy, it'ww be so gweat to catch up and shawe ouw stories! :3",uwu
+"Wooking fowawd to ouw next hangout, it's awways a bwast when we're togethew, I'ww be counting down the days untiw we can meet again! UwU",uwu
+"Wishing you aww the happiness and wuv in the wowld, you desewve it aww and I hope evewything you'we hoping fow comes twue! owo",uwu
+"Hewwo! I just wanted to say how much I appweciate you and you'we so special, you make me smiwe even on the toughest days and I'ww nevew fowget that! ^_^",uwu
+"Did you see the latest movie? It was so funny and the chawactews wewe so cute, I'ww wuv to heaw youw thoughts on it and discuss ouw favowite pawts!",uwu
+"Let's have a picwic in the pawk and enjoy the sunshine togethew, it'ww be gweat to have some wawm weadew and tasty food whiwe we wawk awound! >ω<",uwu
+"I aways have so much fun chatting with you, you make evewything bettew and I wuv heawing youw funny stowies and catching up on each othew's wives! ^w^",uwu
+"I hope you'we having a wewaxing and nice day, full of happy moments and wuv, you desewve to have a bweath of fweshing aiw and enjoy the moment! (o^▽^o)",uwu
+"Thank you fow being such a wondewful fwiend and always being thewe fow me, you'we a wock in the storm and I can't thank you enough fow youw suppowt! >w<",uwu
+"Can we pway some video games togethew soon? I'ww wuv to team up with you and have a fun time, I'ww be counting the days untiw we can pway again! UwU",uwu
+"I wuv youw positivity and how you always bwing a smile to evewyone's face, you awe a wight of sunshine and make evewyone's day bweathe with joy! owo",uwu
+"Let's have a fun movie night and enjoy some yummie popcorn and snacks, I'ww pwovide the snacks if you bwing the movie, and we'ww have a gweat time! ^_^",uwu
+"You'we the best and I appweciate aww the wovely things you do, you'we always so thoughtful and kind, and I'ww be hewe fow you no mattew what! (｡♥‿♥｡)",uwu
+"Hewwo! I just wanted to say how much I enjoy spending time with you, evewy moment we shawe togethew is so special and fun! UwU",uwu
+"I can’t wait to heaw about youw latest pwans and adventures, I'ww be so excited to catch up and heaw about everything you'we doing! OwO",uwu
+"You'we so amazing and I'ww aways appweciate how you'we aways thewe to hewp me, you make every day so much bweatew! ^_^",uwu
+"Don’t fowget to take some time fow youwself and enjoy some wewaxation, you desewve it and it’ww make you feel so much bettew! >w<",uwu
+"Let’s pwans a day to go out and expwowe new pwaces, maybe we can find a cute cafe and twy some dewicious new treats togethew! >ω<",uwu
+"I’m so happy to have you in my wife, you'we such a positive infwuence and I'ww aweady be wooking fowawd to ouw next hangout! (≧∇≦)",uwu
+"I saw youw watewy photos and they’we absowutewy stunning, you'we so good at capturing the moment and I'ww be jeawous of youw photogenic skills! ^w^",uwu
+"It’s always a gweat time when we catch up and tawk about evewything that’s been happening, I'ww wook fowawd to ouw next chat! :3",uwu
+"I can’t wait to see you again and have anothew gweat day togethew, we’ww pwobabwy laugh and make so many funny memowies! UwU",uwu
+"Wishing you a day filled with wuv and joy, you’we such a wondewful pewson and I hope aww youw wishes come twue today! owo",uwu
+"Hewwo! Just wanted to check in and see how you'we doing, I hope you'we having a fabuwous day and that evewything is going weww! ^_^",uwu
+"Did you catch the watewy stowy about the new pwoducts? I'ww be so happy to chat about it and heaw youw thoughts on the watewy news!",uwu
+"How about we spend the day at the beach and enjoy the sunshine, we can bwing some snacks and have a wovewy time on the sand togethew! >ω<",uwu
+"I wuv how we can tawk about anything and evewything, you’we aways so thoughtful and it's awways a bweeze spending time with you! ^w^",uwu
+"I hope you'we having a wawm and cozy day, full of happy thoughts and wuv, you desewve all the best and more good things to come! (o^▽^o)",uwu
+"Thank you fow being such an incwedibwy supportive fwiend, you'we awways thewe when I need you and I'ww be hewe fow you too! >w<",uwu
+"Can we pway some co-op games togethew soon? I'ww be so excited to team up with you and have a gweat time playing and winning togethew! UwU",uwu
+"I wuv how you'we awways so enthusiastic and positive, you bwing such a wight and happy vibe to evewyone awound you, it’s gweat! owo",uwu
+"Let’s pwans a day to enjoy some movies and snacks, I'ww bwing the snacks if you bwing the movies, and we’ww have so much fun! ^_^",uwu
+"You'we the bestest fwiend and I’ww be so gwateful fow everything you do fow me, you'we always so kind and thoughtful and I'ww appweciate you fowevew! (｡♥‿♥｡)",uwu
+"H3ll0! I h0p3 y0u'v3 b33n 4bl3 t0 3nj0y 4 l0t 0f g00d t1m3s 4nd th4t 3v3ryth1ng 1s g01ng w3ll f0r y0u! 1337",leet
+"1 c4n't w41t t0 h34r 4ll 4b0ut y0ur l4t3st 4dv3ntur3s 4nd wh4t y0u'v3 b33n up t0, 1'm 50 3xc1t3d! OwO",leet
+"Y0u'v3 b33n 50 gr34t 4nd 1 4m 50 th4nkful f0r 4ll th3 tim3 w3'v3 5p3nt t0g3th3r, y0u'v3 m4d3 my d4y5 b3tt3r! ^_^",leet
+"D0n't f0rg3t t0 t4k3 50m3 t1m3 t0 w1nd d0wn 4nd r3l4x, 1t'5 imp0rt4nt t0 ch4rg3 y0ur b4ttery5 4nd 5t4y h34lthy! >w<",leet
+"L3t'5 m33t up s00n 4nd 3nj0y 50m3 d3l1c10u5 f00d, w3 c4n 5p3nd th3 d4y ch4tt1ng 4nd h4v1ng 4 gr34t t1m3! >ω<",leet
+"I'm 50 4ppr3c14t1v3 0f y0u b31ng 1n my lif3, y0u'v3 b33n 4 gr34t 5upport 4nd 4lw4y5 m4k3 th1ng5 50 much b3tt3r! (≧∇≦)",leet
+"Wh3r3 d1d y0u g3t th4t 4w350m3 5tuff? 1t'5 50 c00l 4nd y0u'v3 4lw4y5 h4d 50me gr34t t4st3! ^w^",leet
+"I'11 b3 50 h4ppy t0 c4tch up w1th y0u 4nd h34r 4ll 4b0ut y0ur l4t3st 3xc1t1ng 3xper1enc3s 4nd 4dv3ntur3s! :3",leet
+"L00k1ng f0rw4rd t0 0ur n3xt 5h3n4n6 4nd 5p3nd1ng 50m3 qu4l1ty tim3 t0g3th3r, 1t'5 4lw4y5 4 b1g bl4st! 1337",leet
+"W1sh1ng y0u 4 w0nd3rful d4y f1ll3d w1th 50 much j0y 4nd h4pp1n3ss, y0u d35rv3 4ll th3 b3st 1n th3 w0rld! 0w0",leet
+"H3ll0! I h0p3 y0u'v3 b33n h4v1ng 4 gr34t d4y 4nd th4t 3v3ryth1ng 15 g01ng w3ll, 1'11 b3 th3r3 4nyt1m3 y0u n33d! ^_^",leet
+"D1d y0u h34r 4b0ut th3 n3w r3l34s3? 1t'5 50 4w350m3 4nd I'11 b3 50 3xc1t3d t0 533 1t w1th y0u!",leet
+"W3 c4n h4v3 4 p1cn1c 1n th3 p4rk, 1t'5 4 gr34t w4y t0 3nj0y th3 w34th3r 4nd 50m3 d3l1c10u5 5n4ck5! >ω<",leet
+"1 4lw4y5 h4v3 50 much fun wh3n w3 ch4t, y0u'v3 4lw4y5 b33n 50 3nt3rt41n1ng 4nd 1'11 w4nt t0 h34r m0r3! ^w^",leet
+"1 h0p3 y0u'v3 b33n h4v1ng 4 w4rm 4nd c0zy d4y, 1t'5 50 1mp0rt4nt t0 5t4y w3ll 4nd 3nj0y th3 m0m3nt5! (o^▽^o)",leet
+"Th4nk y0u f0r b31ng 50 4m4z1ng 4nd 4lw4y5 b31ng th3r3 f0r m3, y0u'v3 b33n 4 r0ck 4nd I'11 4lw4y5 4ppr3c14t3 y0u! >w<",leet
+"C4n w3 pl4y 50m3 n3w v1d30 g4m3s 50on? 1'11 b3 50 3xc1t3d t0 t34m up w1th y0u 4nd h4v3 4 gr34t t1m3! 1337",leet
+"1 wuv y0ur p0s1t1v1ty 4nd h0w y0u 4lw4y5 br1ng 4 5m1l3 t0 3v3ry0n3'5 f4c3, y0u'v3 b33n 4 r34l b1essing! 0w0",leet
+"L3t'5 pl4n 4 movie n1ght 4nd 3nj0y 50m3 yummi3 p0pc0rn 4nd 5n4ck5, 1t'5 4 p3rf3ct w4y t0 r3l4x 4nd h4v3 fun! ^_^",leet
+"Y0u'v3 b33n 50 gr34t 4nd 1 4m 50 th4nkful f0r 4ll th3 l0v3ly th1ng5 y0u d0, 1'11 b3 h3r3 f0r y0u n0 m4tt3r wh4t! (｡♥‿♥｡)",leet
+"H3ll0! 1 h0p3 y0u'v3 b33n 4bl3 t0 5p3nd 4 l0t 0f qu4l1ty tim3 w1th y0ur f4m1ly 4nd fr13nd5, 1t'5 4lw4y5 g00d t0 c4tch up w1th th3 p30pl3 y0u c4r3 4b0ut! 1337",leet
+"I w4nt t0 5t4rt pl4nn1ng 4n 4w350m3 w33k3nd g3t4w4y w1th y0u, w3 c4n ch00s3 4 c00l d3st1n4t10n 4nd 3nj0y 50m3 5un4nd f00d t0g3th3r! >w<",leet
+"Y0u'v3 b33n 50 4m4z1ng 4nd 1 w4nt t0 5h4r3 h0w m4ny 1mpr3ss1v3 th1ng5 y0u'v3 b33n d01ng, 1t'5 50 1n5p1r1ng t0 533 y0u 5ucce3d! ^w^",leet
+"1 c4n't w41t t0 s33 y0u 4nd 5p3nd 4n0th3r 5up3rb d4y t0g3th3r, w3 c4n 50 t4lk, l4ugh, 4nd m4k3 50me n3w m3m0r135 th4t w3'11 4lw4y5 ch3r15h! :3",leet
+"L3t'5 h4v3 4 f4nt4st1c d4y 1n th3 c1ty, 5w4r1ng 4r0und t0 5ee th3 l4t3st 4ttr4ct10n5, 4nd 3nj0y 50m3 5tr34t5, 1t'5 4 gr34t w4y t0 br34k 4w4y fr0m th3 d41ly r0ut1n3! 1337",leet
+"1 4lw4y5 4ppr3c14t3 y0u b31ng 4lw4y5 5o p05it1v3 4nd 3nc0ur4g1ng, y0u m4k3 1t 50 34sy t0 f33l g00d 4nd b3 h4ppy, 1'm 50 th4nkful! >ω<",leet
+"1'm 50 3xc1t3d f0r 0ur n3xt 5h3n4n6 4nd t0 5h4r3 m0r3 4w350m3 5t0r135 4nd 3xp3r13nc3s w1th y0u, 1t'5 4lw4y5 4 bl4st! ^_^",leet
+"W1th th3 w34th3r b34t1ng d0wn 0n u5, 1 th1nk 1t'5 4 gr34t t1m3 t0 c0z1n3 up 4nd w4tch 50m3 g00d m0vi3s 0r r34d 4 b00k, wh4t d0 y0u th1nk? 0w0",leet
+"H3ll0! 1 w4nt t0 5ay h1 4nd 4ppreci4t3 4ll th3 tim3 y0u'v3 5p3nt h3lp1ng m3 w1th my pr0j3ct5, y0ur 5upport h4s b33n 1n3st1m4bl3! (≧∇≦)",leet
+"1'm r34lly l00k1ng f0rw4rd t0 0ur pl4nn3d v4c4t10n, w3 c4n 3nj0y 4 l0t 0f r3l4x4t10n 4nd fun 4t 4 b34ch 0r 5om3 0th3r c00l l0c4t10n! >w<",leet
+"L3t'5 pl4n 4 ch3rry-p1ck3d 3v3nt w1th 50m3 4w350m3 p33pl3, w3 c4n m4k3 50m3 gr34t m3m0r135 4nd 3nj0y th3 d4y t0g3th3r! ^w^",leet
+"I 5aw y0ur l4t3st p0st 4nd 1t'5 50 1n5p1r1ng, y0u'v3 4ccompl1sh3d 50 m4ny gr34t th1ng5 4nd 1'11 b3 50 h4ppy t0 h34r m0r3 4b0ut 1t! :3",leet
+"1 h4v3 b33n th1nk1ng 4b0ut 50me n3w 5tr4t3g135 f0r 4dv4nc1ng my 5k1ll5 4nd 1 th1nk 1t w0uld b3 gr34t t0 h34r y0ur 0p1n10n5 4nd 4dv1c3! 0w0",leet
+"H3ll0! 1 w4nt3d t0 l3t y0u kn0w th4t 1'11 b3 4b5ent f0r 4 wh1l3, but 1'm 50 3xc1t3d t0 c4tch up 4nd 5p3nd tim3 w1th y0u 4g41n s00n! (｡♥‿♥｡)",leet
+"W3 c4n 5p3nd th3 d4y v1s1t1ng 50m3 4w350m3 5it35 4nd 3nj0y 4ll th3 b34ut1ful 5c3n3rY, 1'm 50 4nthu51a5t1c 4bout th1s 1d34! ^_^",leet
+"1'11 b3 50 3xc1t3d t0 5p3nd 4 wh0l3 d4y t0g3th3r, w3 c4n d0 50m3 4m4z1ng 4ct1v1t13s 4nd 3nj0y 4 gr34t t1m3, 1t'5 4lw4y5 50 m4ch fun! >ω<",leet
+"L3t'5 h4v3 4 d4y 0f 4dv3ntur3 4nd 3xc1t3m3nt, w3 c4n 3xpl0r3 n3w 4r34s 4nd 5c3n3r13$, 1'11 b3 50 h4ppy t0 b3 p4rt 0f 1t! ^w^",leet
+"I c4n’t w41t t0 h34r 4ll 4b0ut y0ur n3w 1d34$, 1m 50 1nt3r35t3d 1n kn0w1ng m0r3 4nd h34r1ng 4b0ut y0ur 3xc1t1ng pl4n5! (≧∇≦)",leet
+"1 h4v3 b33n 5t4r1ng 4t 50m3 n3w pr0j3ct5 4nd 1 th1nk 1t'5 g01ng t0 b3 4m4z1ng t0 5h4r3 my pr0gr3ss w1th y0u 4nd g3t y0ur 1n5ight5! 0w0",leet
+"W3 5h0uld pl4n 4n 4w350m3 d4y 0f 4dventur3, 1t'5 4 gr34t w4y t0 3nj0y 50m3 qu4l1ty tim3 4nd 5p3nd 1t t0g3th3r, 1'11 b3 50 3xc1t3d! >w<",leet
+"1 r34lly 4pprec14t3 y0ur h34rty 4nd c4r1ng n4tur3, 1t'5 50 r3fr3sh1ng t0 b3 4r0und 50m30n3 4s 4m4z1ng 4s y0u, 1'm 50 th4nkful! ^_^",leet
+"H34r1ng 4b0ut y0ur n3w pr0j3ct5 4nd 1d34$ 1s 50 1ntr1gu1ng, 1'11 b3 50 h4ppy t0 h34r m0r3 4b0ut 1t 4nd 5h4r3 1n y0ur 3xc1t3m3nt! ^w^",leet
+"L3t'5 5p3nd th3 d4y 3nj0y1ng 50m3 4ct1v1t13$ 4nd v15it1ng 50me 1nt3r35t1ng pl4c3$, 1'm 50 3xc1t3d t0 5h4r3 th3 3xp3r13nc3 w1th y0u! :3",leet
+"1'11 b3 50 h4ppy t0 c4tch up 4nd 5p3nd 50m3 qu4l1ty tim3 w1th y0u, 1t'5 4lw4y5 4 pl34sure t0 5p3nd d4y5 t0g3th3r 4nd 3nj0y 1t! 1337",leet
+"Y0u'v3 b33n 4n 1n5p1r4t10n t0 m3, 1'11 b3 50 gr4t3ful f0r 4ll th3 w4y5 y0u'v3 h3lp3d 4nd 5upport3d m3 1n my j0urn3y, th4nk y0u! >ω<",leet
+"L3t'5 pl4n 4n 4w350m3 w33k3nd 0f r3l4x4t10n 4nd fun, w3 c4n v15it 50m3 n3w 5it35 4nd 3nj0y 50m3 d3lic10u5 f00d t0g3th3r! ^w^",leet
+"1 c4n’t w41t t0 s33 y0u 4nd h34r 4ll 4b0ut y0ur l4t3st 4dv3ntur3$, 1'11 b3 50 3xc1t3d t0 5h4r3 1n y0ur j0y 4nd 3xp3r13nc3! ^_^",leet
+"W3 5h0uld h4v3 4 gr34t t1m3 4t 4n 4m4z1ng pl4c3, w3 c4n 3nj0y 4 d4y 0f 4ct1v1t13$ 4nd m4k3 50me n3w m3m0r135 t0g3th3r! :3",leet
+"1 4lw4y5 4ppr3c14t3 th3 1nv1t4t10n 4nd 5upport, y0u'v3 m4d3 1t 50 34sy t0 5t4y p05it1v3 4nd m0t1v4t3d 4ll th3 tim3, th4nk y0u! 0w0",leet
+"H34r1ng y0ur 5t0r135 4lw4y5 5p34rks 1n5p1r4t10n 1n m3, 1'11 b3 50 3xc1t3d t0 k33p 1n t4ch 4nd h34r m0r3 4b0ut y0ur 4dv3ntur3$! >w<",leet
+"L3t'5 m4k3 50m3 pl4n5 f0r 4n 4m4z1ng d4y 0f fun 4nd 3xc1t3m3nt, w3 c4n 3nj0y 4ll th3 gr34t th1ng5 4nd 5h4r3 1n th3 5p1r1t! (≧∇≦)",leet
+"1'm 50 4ppr3c14t1v3 0f 4ll th3 h34rty c0nv3rs4t10n5 4nd qu4l1ty tim3 5p3nt w1th y0u, 1t'5 4lw4y5 4 gr34t 3xp3r13nc3 t0 b3 w1th y0u! ^_^",leet
+"W3 c4n 5t4rt pl4nn1ng 4n 4w350m3 g3t4w4y 4nd 3nj0y 50m3 r3l4x4t10n 4nd 4dventur3$, 1'm 50 3xc1t3d t0 b3 4bl3 t0 5h4r3 1n th3 3xp3r13nc3! :3",leet
+"H34r1ng 4b0ut y0ur d4y 4lw4y5 m4k3$ m3 f33l 50 h4ppy 4nd 1n5p1r3d, 1'm 50 th4nkful t0 h4v3 50m30n3 4s 4m4z1ng 4s y0u 1n my l1f3! 0w0",leet
+"L3t'5 pl4n 4 d4y 0f 4dventur3 1n th3 c1ty, w3 c4n v15it 50m3 5tr34t 5f00d 5t4ll5 4nd 3nj0y 4ll th3 b34ut1ful 5c3n3r13$! >w<",leet
+"1 h4v3 b33n th1nk1ng 4b0ut 50m3 1nt3r35t1ng w4y5 t0 m4k3 my d41ly r0ut1n3 m0r3 3xc1t1ng, 1 w0uld l0v3 t0 h34r y0ur 0p1n10n5 4nd 4dv1c3! ^w^",leet
+"1'm 50 3xc1t3d f0r 0ur n3xt 5h3n4n6, w3 c4n 5p3nd 4 l0t 0f qu4l1ty tim3 4nd h34r 4ll 4b0ut y0ur l4t3st 3xp3r13nc3$, 1t'5 4lw4y5 4 gr34t t1m3! ^_^",leet
+"1 4lw4y5 f33l b3tt3r 4ft3r 4 gr34t c0nv3rs4t10n w1th y0u, y0u'v3 4lw4y5 b33n 50 5upport1v3 4nd 1n5p1r1ng, 1'm 50 gr4t3ful! (≧∇≦)",leet
+"1'm r34lly 1ntr1gu3d by y0ur l4t3st 1d34$ 4nd 4dv3ntur3$, 1t'5 50 1n5p1r1ng t0 h34r 4ll 4b0ut y0ur 3xp3r13nc3$ 4nd th3 5tr4t3g1e$ y0u'r3 1mpl3m3nt1ng! ^w^",leet
+"L3t'5 pl4n 4n 4w350m3 5u5h1n3 4nd 4dventur0u5 d4y 1n th3 c1ty, w3 c4n 3nj0y 50m3 n3w 4ct1v1t13$ 4nd ch3ck 0ut 50m3 1nt3r35t1ng pl4c3$! :3",leet
